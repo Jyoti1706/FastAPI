@@ -26,3 +26,6 @@ Twitter like project,
 1. create, update, delete, retrieve posts
 2. user specific funtionality
 3. vote a posts
+
+Creating virtual env:
+py -3 -m venv venv
